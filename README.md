@@ -16,4 +16,7 @@ Summary:
 
 4.Framework use for this project is PyQt5
 
+The following images are the sample output of the project
+
+
 
