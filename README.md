@@ -18,5 +18,11 @@ Summary:
 
 The following images are the sample output of the project
 
+![Screenshot](https://github.com/tonyliew95/Road-Surface-Condition-Detection/blob/master/Sample%20output/Capture1.JPG)
+
+![Screenshot](https://github.com/tonyliew95/Road-Surface-Condition-Detection/blob/master/Sample%20output/Capture2.JPG)
+
+![Screenshot](https://github.com/tonyliew95/Road-Surface-Condition-Detection/blob/master/Sample%20output/Capture3.JPG)
+
 
 
